@@ -1,0 +1,4 @@
+- 👋 Olá, sou o @arturviannaa
+- 💻 Desenvolvendo habilidades em LUA
+- 🔧 Programador back-end
+- 📫 Me encontre no discord: vianna#8189
