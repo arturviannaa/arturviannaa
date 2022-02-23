@@ -1,4 +1,5 @@
-- 👋 Olá, sou o @arturviannaa
-- 💻 Desenvolvendo habilidades em LUA
-- 🔧 Programador back-end
-- 📫 Me encontre no discord: vianna#8189
+- 👋 Hello, i'm @arturviannaa
+- 🔰 17 years
+- 💻 Learning LUA
+- 🔧 Back-end brazilian developer
+- 📫 Find me on discord: vianna#8189
