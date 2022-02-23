@@ -1,5 +1,5 @@
 - 👋 Hello, i'm @arturviannaa
 - 🔰 17 years
 - 💻 Learning LUA
-- 🔧 Back-end brazilian developer
+- 🔧 Brazilian back-end developer
 - 📫 Find me on discord: vianna#8189
