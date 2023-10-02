@@ -4,10 +4,7 @@
 
 <p align="center">I ❤️ to help and enhance my knowledge. <br><br> I have been working in backend development for <strong>5 years</strong>, striving to deliver the <strong>best solutions</strong> <strong>using clean and functional code techniques</strong>. I have specialized in development using the LUA and JS languages.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
