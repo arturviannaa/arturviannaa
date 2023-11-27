@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/arturviannaa/arturviannaa/blob/main/logobranca.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ to help and enhance my knowledge. <br><br> I have been working in backend development for <strong>5 years</strong>, striving to deliver the <strong>best solutions</strong> <strong>using clean and functional code techniques</strong>. I have specialized in development using the LUA and JS languages.</p>&nbsp;
+<p align="center">I ❤️ to help and enhance my knowledge. <br><br> I have been working in backend development for <strong>7 years</strong>, striving to deliver the <strong>best solutions</strong> <strong>using clean and functional code techniques</strong>. I have specialized in development using the LUA and JS languages.</p>&nbsp;
 
 
  
