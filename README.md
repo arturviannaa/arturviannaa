@@ -28,6 +28,7 @@
 #### Studying in this moment:
 
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-2C2D72?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
