@@ -1,7 +1,7 @@
 <div align="center">
   <img style="margin-bottom:20px" width="100%" src="https://github.com/arturviannaa/arturviannaa/blob/main/logobranca.png" alt="Logo Artur Vianna" />
 
-  <h3>👋 Olá, eu sou o Artur Vianna!</h3>
+  <h3>👋 Hey, I'm Artur Vianna!</h3>
 
   <p>
     I ❤️ to help and enhance my knowledge. <br>
