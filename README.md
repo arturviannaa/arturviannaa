@@ -1,47 +1,48 @@
+<div align="center">
+  <img style="margin-bottom:20px" width="100%" src="https://github.com/arturviannaa/arturviannaa/blob/main/logobranca.png" alt="Logo Artur Vianna" />
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/arturviannaa/arturviannaa/blob/main/logobranca.png" />
-&nbsp;&nbsp;&nbsp;
+  <h3>👋 Olá, eu sou o Artur Vianna!</h3>
 
-<p align="center">I ❤️ to help and enhance my knowledge. <br><br> I have been working in backend development for <strong>8 years</strong>, striving to deliver the <strong>best solutions</strong> <strong>using clean and functional code techniques</strong>. I have specialized in development using the JAVA language.</p>&nbsp;
+  <p>
+    I ❤️ to help and enhance my knowledge. <br>
+    I have been working in backend development for <strong>8 years</strong>, striving to deliver the <strong>best solutions</strong> using <strong>clean and functional code techniques</strong>. I specialize in backend development using <strong>Java</strong> and <strong>Python</strong>.
+  </p>
+</div>
 
+---
 
- 
- &nbsp;
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Ilustração de um Computador">
 
+## 🚀 Minhas Habilidades
 
+#### 💻 Principais Linguagens
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## My Skills
+#### 🗄️ Dados e Versionamento
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### Main Stack:
+#### 🛠️ Ferramentas e IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![JAVA](https://img.shields.io/badge/JAVA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+<br><br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## 📬 Contatos
 
-#### Secondary Stack:
+Sinta-se à vontade para entrar em contato comigo:
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<div align="left">
+  <a href="https://www.instagram.com/oarturvianna" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:arturviannarp@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
-#### Studying in this moment:
+<br>
 
-![JAVA](https://img.shields.io/badge/Java-2C2D72?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![IntelliJ](https://img.shields.io/badge/intellij-4285F4?style=for-the-badge&logo=intellij&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/oarturvianna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:arturvianna@icloud.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
