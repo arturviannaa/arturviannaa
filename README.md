@@ -96,12 +96,13 @@ public class Artur {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arturviannaa&show_icons=true&hide_border=true&bg_color=020617&title_color=10B981&icon_color=22D3EE&text_color=CBD5E1&include_all_commits=true&count_private=true" alt="github stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=arturviannaa&hide_border=true&background=020617&stroke=020617&ring=10B981&fire=22D3EE&currStreakNum=10B981&currStreakLabel=10B981&dates=64748B&sideNums=CBD5E1&sideLabels=CBD5E1" alt="streak"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arturviannaa&theme=github_dark" alt="github stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=arturviannaa&hide_border=true&background=020617&stroke=020617&ring=10B981&fire=22D3EE&currStreakNum=10B981&currStreakLabel=10B981&dates=64748B&sideNums=CBD5E1&sideLabels=CBD5E1" alt="streak"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturviannaa&layout=compact&hide_border=true&bg_color=020617&title_color=10B981&text_color=CBD5E1&langs_count=8" alt="top languages"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arturviannaa&theme=github_dark" alt="top languages"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arturviannaa&theme=github_dark" alt="most commit language"/>
 
 <br/><br/>
 
