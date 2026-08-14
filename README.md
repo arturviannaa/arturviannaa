@@ -2,22 +2,22 @@
   GitHub profile README · Artur Vianna
   Mesma identidade visual do portfólio: boot sequence, dark + emerald/cyan,
   headers em estilo terminal, cards técnicos.
-  → cole este arquivo em: github.com/arturviannaa/arturviannaa (repo `<username>/<username>`)
+  → repo `arturviannaa/arturviannaa`
 -->
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:10B981&height=200&section=header&text=artur.vianna&fontSize=68&fontColor=10B981&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20APIs%20REST&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="header"/></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:10B981&height=200&section=header&text=artur.vianna&fontSize=68&fontColor=10B981&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20APIs%20REST&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="header"/></a>
 
 <div align="center">
 
 <a href="https://github.com/arturviannaa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=600&color=10B981&center=true&vCenter=true&width=620&lines=%3E+booting+profile.exe;%3E+loading+USER_DATA...+%5BOK%5D;%3E+8%2B+years+building+backend+systems;%3E+java+%2B+python+%2B+clean+code;%3E+welcome%2C+visitor." alt="typing svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=600&color=10B981&center=true&vCenter=true&width=680&lines=%3E+booting+profile.exe;%3E+loading+USER_DATA...+%5BOK%5D;%3E+programando+desde+os+13+anos;%3E+java+%2B+spring+boot+%2B+clean+code;%3E+welcome%2C+visitor." alt="typing svg"/>
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/status-open_to_work-10B981?style=flat-square&labelColor=020617" alt="status"/>
 <img src="https://img.shields.io/badge/location-S%C3%A3o_Leopoldo%2C_RS-22D3EE?style=flat-square&labelColor=020617" alt="location"/>
-<img src="https://img.shields.io/badge/focus-backend-10B981?style=flat-square&labelColor=020617" alt="focus"/>
+<img src="https://img.shields.io/badge/focus-backend_java-10B981?style=flat-square&labelColor=020617" alt="focus"/>
 <img src="https://img.shields.io/github/followers/arturviannaa?style=flat-square&labelColor=020617&color=10B981" alt="followers"/>
 
 </div>
@@ -26,15 +26,15 @@
 
 ```bash
 > whoami
-artur.figueiredo.vianna :: backend.engineer
+artur.figueiredo.vianna :: backend.developer
 
 > cat ~/profile.json
 {
-  "role":      "Backend Engineer",
-  "stack":     ["Java", "Spring Boot", "Python", "APIs REST"],
-  "principle": "clean code · functional · pragmatic",
+  "role":      "Backend Developer",
+  "stack":     ["Java", "Spring Boot", "APIs REST", "PostgreSQL", "Docker"],
+  "building":  "HackMyApp — análise de vulnerabilidades, em produção",
   "education": "Engenharia de Software @ FIAP",
-  "exp":       "8+ years",
+  "coding":    "desde os 13 anos",
   "status":    "open to opportunities"
 }
 ```
@@ -45,21 +45,43 @@ artur.figueiredo.vianna :: backend.engineer
 
 ## `> // sobre`
 
-I ❤️ to help and enhance my knowledge.
+Desenvolvedor **back-end** com foco em **Java** e **Spring Boot**, cursando Engenharia de Software na **FIAP**.
 
-Sou desenvolvedor **back-end** há **8 anos**, com foco em entregar as **melhores soluções** usando **clean code** e técnicas funcionais. Atuo principalmente com **Java** e **Python**, construindo **APIs REST** que escalam.
+Comecei a programar aos **13 anos**, por curiosidade, e nunca parei. Hoje o que eu gosto de fazer é o mesmo de sempre, só com mais responsabilidade: pegar um requisito confuso e transformar numa API que funciona, é testada e vai para produção.
 
-Autodidata desde os **13 anos** — comecei programando por curiosidade e nunca parei.
+Atualmente sou responsável pelo **back-end do [HackMyApp](https://hackmyapp.com.br)** — uma plataforma de análise de vulnerabilidades que está **no ar, atendendo clientes**.
 
 ```java
 public class Artur {
-    String[] focus    = { "Java", "Spring Boot", "APIs REST" };
-    String[] exploring = { "System Design", "Clean Architecture", "Docker" };
-    String   coffee   = "always.brewing()";
+    String[] focus     = { "Java", "Spring Boot", "APIs REST" };
+    String[] exploring = { "System Design", "Clean Architecture", "Observabilidade" };
+    String   coffee    = "always.brewing()";
 }
 ```
 
 <br clear="right"/>
+
+---
+
+## `> // construindo`
+
+#### `01.` HackMyApp · `em produção`
+Plataforma de análise de vulnerabilidades em sites e repositórios GitHub. Responsável pelo **back-end em Java**.
+
+- Arquitetura distribuída: front-end React, back-end Java e **workers em Python** executando varreduras assíncronas
+- Detecta SQL Injection, CVEs conhecidas, painéis sem autenticação, serviços expostos e ausência de **CSP/HSTS**
+- **IA integrada** para contextualizar e aprofundar cada achado antes de gerar o relatório
+- Automação do ciclo: re-scan mensal agendado, relatório em PDF e envio por e-mail
+- Deploy automatizado por branch com **Git Flow** (`develop` / `hml` / `main`)
+
+`→` [hackmyapp.com.br](https://hackmyapp.com.br) · código privado
+
+#### `02.` Challenge FIAP × Hospital Moinhos de Vento · `em desenvolvimento`
+Plataforma de ensino médico gamificada, com **IA Tutora e IA Supervisora**, para alunos de Medicina simularem situações reais de atendimento a pacientes.
+
+- Equipe de **3 alunos selecionada pelo Hospital Moinhos de Vento**
+- Responsável pelo **back-end em Java**
+- Entrega submetida à banca avaliadora do hospital
 
 ---
 
@@ -68,27 +90,35 @@ public class Artur {
 #### `01.` Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### `02.` Backend & Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+#### `02.` Back-end
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-API-10B981?style=for-the-badge&logoColor=white)
 
 #### `03.` Dados
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### `04.` Tooling & Infra
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### `04.` Testes & Infra
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+#### `05.` Front-end
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -99,11 +129,6 @@ public class Artur {
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arturviannaa&theme=github_dark" alt="github stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=arturviannaa&hide_border=true&background=020617&stroke=020617&ring=10B981&fire=22D3EE&currStreakNum=10B981&currStreakLabel=10B981&dates=64748B&sideNums=CBD5E1&sideLabels=CBD5E1" alt="streak"/>
 
-<br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arturviannaa&theme=github_dark" alt="top languages"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arturviannaa&theme=github_dark" alt="most commit language"/>
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arturviannaa&bg_color=020617&color=10B981&line=22D3EE&point=10B981&area=true&area_color=10B981&hide_border=true&custom_title=%3E+contribution+activity" width="98%" alt="activity graph"/>
@@ -113,6 +138,8 @@ public class Artur {
 ---
 
 ## `> // certificações`
+
+**Alura — 176 horas concluídas** · trilhas de Java com Orientação a Objetos, Spring Framework, Python com OO e Git/GitHub.
 
 <table>
   <thead>
@@ -156,7 +183,7 @@ public class Artur {
   </tbody>
 </table>
 
-<sub>perfil completo Alura → <a href="https://cursos.alura.com.br/user/arturvianna">cursos.alura.com.br/user/arturvianna</a></sub>
+<sub>certificado completo (todas as 176h, sem login) → <a href="https://cursos.alura.com.br/user/arturvianna/fullCertificate/d7493b1b1b8a483b8285123496b37fdb">ver certificado</a></sub>
 
 ---
 
@@ -186,7 +213,7 @@ public class Artur {
 <br/>
 
 <div align="center">
-  <sub>resposta em até 24h · disponível para projetos freelancer e oportunidades full-time</sub>
+  <sub>resposta em até 24h · disponibilidade imediata para oportunidades full-time</sub>
 </div>
 
 ---
